@@ -9,3 +9,6 @@ PhD at the Unniversity of Bern
 
 Skiing
 Biking
+
+Myfavorite color is blue
+My second favorite color is read
